@@ -1,0 +1,1 @@
+(window.mazWebpack=window.mazWebpack||[]).push([["object_fit_parser"],{Svs8:function(t,e,c){"use strict";c.r(e);e.default=function(t){!function(){if(!("objectFit"in document.documentElement.style)){var e=t.querySelectorAll("[data-object-fit-images]");e.length&&objectFitImages(e)}}()}}}]);

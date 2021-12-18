@@ -1,0 +1,1 @@
+(window.mazWebpack=window.mazWebpack||[]).push([["favicon_manager"],{EgUk:function(e,a,c){"use strict";c.r(a);a.default=function(){window.matchMedia("(prefers-color-scheme: dark)").matches&&Array.from(document.querySelectorAll("head > link.favicon")).forEach(function(e){e.href=e.href.replace("favicon-","favicon-for-darkmode-")})}}}]);

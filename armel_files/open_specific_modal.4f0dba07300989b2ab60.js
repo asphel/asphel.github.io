@@ -1,0 +1,1 @@
+(window.mazWebpack=window.mazWebpack||[]).push([["open_specific_modal"],{hFAj:function(i,n,t){"use strict";t.r(n);n.default=function(i){var n={};function t(){ONP.ui.lightbox.init(n)}n=JSON.parse(i.dataset.specificModalOptions),i.addEventListener("click",t)}}}]);
